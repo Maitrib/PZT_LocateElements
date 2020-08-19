@@ -107,6 +107,7 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1597821395739</id>
 			<name></name>
 			<type>10</type>
@@ -171,6 +172,18 @@
 		</filter>
 		<filter>
 			<id>1597833247663</id>
+=======
+			<id>1597816030790</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1597816030791</id>
+>>>>>>> branch 'master' of https://github.com/Maitrib/PZT_LocateElements.git
 			<name></name>
 			<type>6</type>
 			<matcher>
