@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>GeoTooltipData</name>
+   <name>Username</name>
    <tag></tag>
-   <elementGuidId>a58a7dab-0e9a-4abb-b4fd-e96844b55ff0</elementGuidId>
+   <elementGuidId>004b5e46-812a-40e0-b493-664bbfdf4846</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#dashboard-l1-anomalies-chart-gridcell > div > div > div > div:nth-child(2) > svg > g > g.amcharts-Container > g:nth-child(2) > g > g:nth-child(6) > g.amcharts-Container.amcharts-Tooltip > g > g > text > tspan
-
-</value>
+         <value>#cell_0_user_name</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>graph-element</name>
+   <name>GeoAnomalies</name>
    <tag></tag>
    <elementGuidId>3f95e722-5b53-45c9-84d1-87560e567895</elementGuidId>
    <selectorCollection>
